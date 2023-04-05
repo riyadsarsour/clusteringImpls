@@ -1,8 +1,5 @@
-# Submit this file to Gradescope
 from typing import List
 from math import sqrt, inf
-# you may use other Python standard libraries, but not data
-# science libraries, such as numpy, scikit-learn, etc.
 
 
 class Solution:
