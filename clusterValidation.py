@@ -1,9 +1,7 @@
-# Submit this file to Gradescope
 from typing import Dict, List, Tuple
 from math import comb, log, log2
 import math
-# you may use other Python standard libraries, but not data
-# science libraries, such as numpy, scikit-learn, etc.
+
 
 
 class Solution:
